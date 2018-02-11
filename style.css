@@ -1,0 +1,111 @@
+.navbar-default{
+    width: 1175px;
+    margin-left: 180px;
+    margin-top: 25px;
+
+    background-color: white;
+}
+h1{
+    float: left;
+    background-color: rgb(45, 182, 136);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 12px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    margin-left: 55px;
+}
+.ac a{
+    margin-right: 125px;
+}
+
+.container{
+    background-color:lightgrey;
+    height: 525px;
+    width: 1050px;
+}
+.col-md-8{
+    width: 640px;
+    height: 450px;
+    background-color:whitesmoke;
+    margin-top: 35px; 
+    margin-left: 30px;
+    overflow: auto;
+}
+.col-md-4{
+    width: 250px;
+    padding: 20px;
+    background-color: whitesmoke;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.hd hr{
+    border: 2px solid silver;
+    margin-right:12px;
+    margin-left: 12px;
+}
+.hd h2{
+    color: rgb(45, 182, 136);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 15px;
+}
+h3{
+    color: rgb(45, 182, 136);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -1px;
+    margin-left: 17px;
+}
+.hd2 hr{
+    border: 2px solid silver;
+    margin-right:12px;
+    margin-left: 12px;
+}
+.im1{
+    margin-left: 30px;
+}
+.raw1 .col-md-12{
+    position: fixed;
+    border-top: 3px solid greenyellow;
+    padding: 25px;
+    background-color:gray;
+    width: 1175px;
+    margin-top: 15px;
+    margin-left: 180px;
+    text-align: center;
+}
+#sm{
+    margin-top: 15px;
+    background-color: rgb(45, 182, 136);
+    width: 90px;
+}
+#msg{
+    width: 450px;
+    height: 125px;
+}
+#fname , #mail{
+    width: 450px;
+}
+.col-md-6 img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+}
+.col-md-6 h4{
+        position: absolute;
+        bottom: 10px;
+        left:15px;
+        background: rgb(45, 182, 136);
+        width:200px;
+        text-align: center;
+        color:white;
+        padding: 8px;
+}
+/* .clearfix::after{
+    clear: both;
+    overflow: auto;
+} */
+
+
+
+ 
